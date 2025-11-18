@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script calculates simple interest...
+# Author: Upkar Lidder (IBM)
+# Additional Authors:
+# <your GitHub username>
+...
